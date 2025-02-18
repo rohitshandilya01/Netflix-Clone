@@ -3,3 +3,4 @@ A Netflix clone built with HTML and CSS, featuring a responsive design, interact
 
 
 * Need Help to make it fully responsive *
+* Deployment is not working shows its a dangerous site
